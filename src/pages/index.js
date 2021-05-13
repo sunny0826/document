@@ -52,7 +52,7 @@ export default function Home() {
             src={`${siteConfig.baseUrl}img/2050.png`}
             className={styles.logo}
           />
-          <h1 className={styles.title}>{siteConfig.title}</h1>
+          <h1 className={styles.title}>dev.2050.org</h1>
           <p className={styles.subtitle}>{siteConfig.tagline}</p>
           <a
             href={docUrl(siteConfig.baseUrl, '')}

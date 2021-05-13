@@ -5,7 +5,7 @@ slug: /
 
 ## 准备工作
 
-- 账号：您需要先准备一个 GitHub 账号。使用 Github 进行翻译任务的认领和 PR 提交。
+- 账号：您需要先准备一个 GitHub 账号
 - 仓库和分支管理
   - fork [document](https://github.com/2050dev/document.git) 的仓库，并作为自己仓库的上游： `git remote add upstream https://github.com/2050dev/document.git`
 
