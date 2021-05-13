@@ -1,4 +1,6 @@
-# Website
+# 2050.dev Website
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/70991631-4917-4b98-b2cc-24db46a95182/deploy-status)](https://app.netlify.com/sites/2050dev/deploys)
 
 This website is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern static website generator.
 
