@@ -56,11 +56,6 @@ const siteConfig = {
               label: 'GitHub',
               href: repoUrl,
             },
-            {
-              key: 6,
-              label: 'Star',
-              href: repoUrl,
-            },
           ],
         },
       ],
