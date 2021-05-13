@@ -4,7 +4,7 @@ const title = '2050.dev';
 const siteConfig = {
   title, // Title for your website.
   tagline: 'Every April we get together for 3 days until 2050.',
-  url: 'https://2050.github.io', // Your website URL
+  url: 'https://dev.2050.org/', // Your website URL
   baseUrl: '/', // Base URL for your project
   // The name of the GitHub repository. Used by the deployment command
   projectName: 'document',
@@ -59,7 +59,7 @@ const siteConfig = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} 2050.dev Author`,
+      copyright: `Copyright © ${new Date().getFullYear()} dev.2050.org Authors`,
     },
     image: 'img/2050.png',
     prism: {
