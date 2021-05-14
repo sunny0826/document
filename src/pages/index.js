@@ -1,12 +1,27 @@
 import * as React from 'react';
 import classnames from 'classnames';
 import Layout from '@theme/Layout';
+import clsx from 'clsx';
+import Link from '@docusaurus/Link';
+import useBaseUrl from '@docusaurus/useBaseUrl';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import styles from '../css/index.module.css';
 import Feature from '../components/Feature';
 
 const docUrl = (baseUrl, doc, lang) => {
   return `${baseUrl}docs/${lang ? `${lang}/` : ''}${doc}`;
+};
+
+const Button = ({ children, href }) => {
+  return (
+    <div className="col col--2 margin-horiz--sm">
+      <Link
+        className="button button--outline button--primary button--lg"
+        to={href}>
+        {children}
+      </Link>
+    </div>
+  );
 };
 
 export default function Home() {
@@ -54,14 +69,12 @@ export default function Home() {
           />
           <h1 className={styles.title}>dev.2050.org</h1>
           <p className={styles.subtitle}>{siteConfig.tagline}</p>
-          <a
-            href={docUrl(siteConfig.baseUrl, '')}
-            target="_self"
-            className={styles.button}
-          >
-            Get Started
-          </a>
-
+          <div
+            className={clsx(styles.heroButtons, 'name', 'margin-vert--md')}>
+            <Button href={docUrl(siteConfig.baseUrl, '')}>Get Started</Button>
+            <Button href='https://github.com/2050dev/document/projects/1'>Kanban</Button>
+          </div>
+          
           <div
             className={classnames('container', styles['features-container'])}
           >

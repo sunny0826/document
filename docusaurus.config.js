@@ -1,5 +1,5 @@
 const repoUrl = 'https://github.com/2050dev/document';
-const title = '2050.dev';
+const title = 'Dev.2050.org';
 
 const siteConfig = {
   title, // Title for your website.
@@ -21,6 +21,7 @@ const siteConfig = {
       },
       items: [
         { to: 'docs', label: 'Docs', position: 'right' },
+        { href: 'https://2050.org', label: '2050.org', position: 'right' },
         { href: repoUrl, label: 'GitHub', position: 'right' },
       ],
     },
@@ -63,9 +64,9 @@ const siteConfig = {
     },
     image: 'img/2050.png',
     prism: {
-      theme: require('prism-react-renderer/themes/github'),
+      theme: require('prism-react-renderer/themes/dracula'),
       darkTheme: require('prism-react-renderer/themes/dracula'),
-      defaultLanguage: 'jsx',
+      defaultLanguage: 'shell',
     },
     // algolia: {
     //   apiKey: '',
