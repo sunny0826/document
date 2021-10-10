@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-10T01:55:43.711Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="f0h4VSDuU48L5aCjLyJQ" version="15.5.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-10-10T01:58:41.863Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="VxI7oKCZ-V2Azx-EIdqw" version="15.5.0" type="github" pages="2">
   <diagram id="RLOXnm5ZqjsgPSG3_b-e" name="活动流程（简）">
     <mxGraphModel dx="2062" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -31,35 +31,35 @@
         <mxCell id="kv2iss9geNYawBt3Gsih-6" value="5. 关闭活动" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="70" y="620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kv2iss9geNYawBt3Gsih-7" value="&lt;h1&gt;2050活动流程（简）&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="20" y="90" width="240" height="60" as="geometry" />
+        <mxCell id="kv2iss9geNYawBt3Gsih-7" value="&lt;h1&gt;2050活动系统流程（简）&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry y="140" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kv2iss9geNYawBt3Gsih-15" value="&lt;h1&gt;2050用户角色（召集人）&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="350" y="90" width="330" height="60" as="geometry" />
+        <mxCell id="kv2iss9geNYawBt3Gsih-15" value="&lt;h1&gt;2050活动系统用户角色（召集人）&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="370" y="140" width="380" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kv2iss9geNYawBt3Gsih-16" value="reviewer&lt;br&gt;（需要login）" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="370" y="329" width="120" height="80" as="geometry" />
+          <mxGeometry x="405" y="339" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kv2iss9geNYawBt3Gsih-17" value="committer&lt;br&gt;（需要login）" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="370" y="440" width="120" height="80" as="geometry" />
+          <mxGeometry x="405" y="450" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kv2iss9geNYawBt3Gsih-23" value="player&lt;br&gt;（需要login）" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="370" y="550" width="120" height="80" as="geometry" />
+          <mxGeometry x="405" y="560" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kv2iss9geNYawBt3Gsih-31" value="volunteer&lt;br&gt;（需要login）" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="370" y="210" width="120" height="80" as="geometry" />
+          <mxGeometry x="405" y="220" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rTJzTeP8TJZsJIEu9ElI-1" value="所有用户默认角色" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="590" y="220" width="30" height="60" as="geometry" />
+          <mxGeometry x="575" y="230" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rTJzTeP8TJZsJIEu9ElI-2" value="召集人角色" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="590" y="329" width="30" height="60" as="geometry" />
+          <mxGeometry x="575" y="339" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rTJzTeP8TJZsJIEu9ElI-3" value="召集人角色" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="590" y="450" width="30" height="60" as="geometry" />
+          <mxGeometry x="575" y="460" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rTJzTeP8TJZsJIEu9ElI-4" value="被召集的角色" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="590" y="560" width="30" height="60" as="geometry" />
+          <mxGeometry x="575" y="570" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -69,8 +69,8 @@
       <root>
         <mxCell id="EP-9-C-b9PdRxVHEHOvm-0" />
         <mxCell id="EP-9-C-b9PdRxVHEHOvm-1" parent="EP-9-C-b9PdRxVHEHOvm-0" />
-        <mxCell id="QnsL4-UMHWg6g2XDR37n-0" value="&lt;h1&gt;2050活动流程（详）&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="EP-9-C-b9PdRxVHEHOvm-1">
-          <mxGeometry x="261" y="80" width="249" height="60" as="geometry" />
+        <mxCell id="QnsL4-UMHWg6g2XDR37n-0" value="&lt;h1&gt;2050活动系统流程（详）&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="EP-9-C-b9PdRxVHEHOvm-1">
+          <mxGeometry x="219.5" y="100" width="289" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QnsL4-UMHWg6g2XDR37n-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="EP-9-C-b9PdRxVHEHOvm-1" source="QnsL4-UMHWg6g2XDR37n-2" target="QnsL4-UMHWg6g2XDR37n-5">
           <mxGeometry relative="1" as="geometry" />
