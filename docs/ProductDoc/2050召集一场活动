@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-10T02:29:25.668Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="UQNLt3lszrttbm7_kQnJ" version="15.5.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-10-10T02:36:06.064Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="jb0hv8R1i1bRx1UYkXWf" version="15.5.0" type="github" pages="2">
   <diagram id="RLOXnm5ZqjsgPSG3_b-e" name="活动流程（简）">
     <mxGraphModel dx="2062" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -65,7 +65,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xsSd2xfPOLr4PfHjkiQP" name="活动流程（详）">
-    <mxGraphModel dx="2462" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2462" dy="1066" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="EP-9-C-b9PdRxVHEHOvm-0" />
         <mxCell id="EP-9-C-b9PdRxVHEHOvm-1" parent="EP-9-C-b9PdRxVHEHOvm-0" />
@@ -349,7 +349,7 @@
         <mxCell id="WdB77v6-zKV06YoJDCUm-22" value="活动取消了吗？" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="EP-9-C-b9PdRxVHEHOvm-1">
           <mxGeometry x="171.75" y="1810" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="WdB77v6-zKV06YoJDCUm-31" value="关闭活动报名&lt;br&gt;活动已结束" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="EP-9-C-b9PdRxVHEHOvm-1">
+        <mxCell id="WdB77v6-zKV06YoJDCUm-31" value="自动关闭活动报名&lt;br&gt;活动已结束" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="EP-9-C-b9PdRxVHEHOvm-1">
           <mxGeometry x="411.25" y="2220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
