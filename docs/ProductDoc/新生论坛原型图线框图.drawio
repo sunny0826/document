@@ -1,15 +1,68 @@
-<mxfile host="app.diagrams.net" modified="2021-10-21T16:08:52.102Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="2PsPcRPTj3AKBtHz5QBS" version="15.5.6" type="github">
-  <diagram id="uC-OHz5i26v9e3jxDsQy" name="Page-1">
+<mxfile host="app.diagrams.net" modified="2021-10-22T02:08:51.204Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="k8C0_L_YhX3mPQizRVX5" version="15.5.8" type="github" pages="2">
+  <diagram id="uC-OHz5i26v9e3jxDsQy" name="PC">
     <mxGraphModel dx="2062" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="UmxwALsGeC_qnuWTcdUq-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry width="827" height="60" as="geometry" />
+        <mxCell id="UmxwALsGeC_qnuWTcdUq-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry y="80" width="827" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UmxwALsGeC_qnuWTcdUq-3" value="2050" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry width="120" height="60" as="geometry" />
+        <mxCell id="FM6FwTmkMWC4xgEZQ_1y-1" value="&lt;h1&gt;顶部导航栏（PC前端通用）&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="10" width="310" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="FM6FwTmkMWC4xgEZQ_1y-3" value="中/En" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="80" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FM6FwTmkMWC4xgEZQ_1y-4" value="我的2050" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="80" width="67" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FM6FwTmkMWC4xgEZQ_1y-5" value="容器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FM6FwTmkMWC4xgEZQ_1y-6" value="2050@2022" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fbdT_GVJqDBPUY8Fsc2G-1" value="青年团聚" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fbdT_GVJqDBPUY8Fsc2G-2" value="新生论坛" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fbdT_GVJqDBPUY8Fsc2G-3" value="探索空间" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fbdT_GVJqDBPUY8Fsc2G-4" value="热带雨林" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="260" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fbdT_GVJqDBPUY8Fsc2G-5" value="思想约会" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fbdT_GVJqDBPUY8Fsc2G-6" value="热力运动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="340" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fbdT_GVJqDBPUY8Fsc2G-7" value="青春舞台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="380" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fbdT_GVJqDBPUY8Fsc2G-8" value="星空露营" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="420" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fbdT_GVJqDBPUY8Fsc2G-9" value="候鸟计划" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="460" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fbdT_GVJqDBPUY8Fsc2G-10" value="2050青年" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="500" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fbdT_GVJqDBPUY8Fsc2G-11" value="现场攻略" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="80" width="80" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="fLX5slP-CTeNjiE22pPc" name="移动端">
+    <mxGraphModel dx="2062" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="5uhBMiswAB2efnMjiXAf-0" />
+        <mxCell id="5uhBMiswAB2efnMjiXAf-1" parent="5uhBMiswAB2efnMjiXAf-0" />
       </root>
     </mxGraphModel>
   </diagram>
