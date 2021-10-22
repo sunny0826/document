@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-22T04:53:02.964Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="qzX8Eryl4jvvLAcb53we" version="15.5.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-10-22T04:54:14.079Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="7Jt90d-6IVZnZdx9nEh7" version="15.5.8" type="github" pages="2">
   <diagram id="uC-OHz5i26v9e3jxDsQy" name="PC">
     <mxGraphModel dx="2062" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -284,13 +284,19 @@
           <mxGeometry x="5.66" y="2070" width="545.7" height="200" as="geometry" />
         </mxCell>
         <mxCell id="xC_UJVTxS9RS3cv763vt-54" value="2050网站底部导航" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#000000;strokeColor=#000000;fillColor=default;align=center;" vertex="1" parent="1">
-          <mxGeometry x="5.66" y="2290" width="804.64" height="60" as="geometry" />
+          <mxGeometry x="5.66" y="2276" width="804.64" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xC_UJVTxS9RS3cv763vt-55" value="点击后&lt;br&gt;跳转至&lt;br&gt;发起论坛页面" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="485.36" y="2020" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xC_UJVTxS9RS3cv763vt-56" value="点击后&lt;br&gt;进入&lt;br&gt;论坛详情页面" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="5.660000000000025" y="1670" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xC_UJVTxS9RS3cv763vt-57" value="2050网站顶部导航" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#000000;strokeColor=#000000;fillColor=default;align=center;" vertex="1" parent="1">
+          <mxGeometry x="5.66" y="2390" width="804.64" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xC_UJVTxS9RS3cv763vt-58" value="&lt;h1&gt;活动系统-新生论坛-详情页&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="7.36000000000001" y="2350" width="442.76" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
