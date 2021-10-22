@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-22T04:01:13.592Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="_nhywmoQpbr5MUMhie6U" version="15.5.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-10-22T04:53:02.964Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="qzX8Eryl4jvvLAcb53we" version="15.5.8" type="github" pages="2">
   <diagram id="uC-OHz5i26v9e3jxDsQy" name="PC">
     <mxGraphModel dx="2062" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,8 +10,8 @@
         <mxCell id="UmxwALsGeC_qnuWTcdUq-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry y="80" width="827" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FM6FwTmkMWC4xgEZQ_1y-1" value="&lt;h1&gt;顶部导航栏-PC前端&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="10" width="310" height="50" as="geometry" />
+        <mxCell id="FM6FwTmkMWC4xgEZQ_1y-1" value="&lt;h1&gt;活动系统-顶部导航栏-PC前端&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="10" width="390" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FM6FwTmkMWC4xgEZQ_1y-3" value="中/En" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="80" width="60" height="60" as="geometry" />
@@ -55,7 +55,7 @@
         <mxCell id="fbdT_GVJqDBPUY8Fsc2G-11" value="现场指南" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="80" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wB2MFxT3rLY4RabPdn_--1" value="&lt;h1&gt;导航栏-运维后台&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="wB2MFxT3rLY4RabPdn_--1" value="&lt;h1&gt;活动系统-导航栏-运维后台&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="64" y="530" width="310" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wB2MFxT3rLY4RabPdn_--2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -77,13 +77,13 @@
           <mxGeometry x="679.28" y="1115" width="82" height="38.98" as="geometry" />
         </mxCell>
         <mxCell id="wB2MFxT3rLY4RabPdn_--23" value="&lt;font color=&quot;#000000&quot;&gt;2050网站顶部导航&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="4" y="1240" width="816" height="60" as="geometry" />
+          <mxGeometry x="5.36" y="1220" width="816" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wB2MFxT3rLY4RabPdn_--24" value="&lt;h1&gt;新生论坛-列表页&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="57.24" y="1180" width="310" height="50" as="geometry" />
+        <mxCell id="wB2MFxT3rLY4RabPdn_--24" value="&lt;h1&gt;活动系统-新生论坛-列表页&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="57.24" y="1180" width="442.76" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wB2MFxT3rLY4RabPdn_--25" value="&lt;font style=&quot;font-size: 35px&quot;&gt;新生论坛&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;年青就要最认真分享&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#333333;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="4" y="1300" width="816" height="220" as="geometry" />
+          <mxGeometry x="5.36" y="1280" width="816" height="220" as="geometry" />
         </mxCell>
         <mxCell id="wB2MFxT3rLY4RabPdn_--27" value="容器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4" y="705" width="120" height="60" as="geometry" />
@@ -161,7 +161,7 @@
           <mxGeometry x="4" y="945" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wB2MFxT3rLY4RabPdn_--66" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#000000;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="4" y="1530" width="206" height="210" as="geometry" />
+          <mxGeometry x="5.36" y="1510" width="266" height="200" as="geometry" />
         </mxCell>
         <mxCell id="wB2MFxT3rLY4RabPdn_--70" value="恳谈会" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4" y="1005" width="120" height="60" as="geometry" />
@@ -173,34 +173,34 @@
           <mxGeometry x="304" y="90" width="176" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xC_UJVTxS9RS3cv763vt-12" value="青年团聚" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="1530" width="120" height="40" as="geometry" />
+          <mxGeometry x="571.32" y="2070" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xC_UJVTxS9RS3cv763vt-13" value="&lt;b&gt;新生论坛&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="1570" width="120" height="40" as="geometry" />
+          <mxGeometry x="571.32" y="2110" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xC_UJVTxS9RS3cv763vt-14" value="探索空间" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="1610" width="120" height="40" as="geometry" />
+          <mxGeometry x="571.32" y="2150" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xC_UJVTxS9RS3cv763vt-15" value="热带雨林" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="1650" width="120" height="40" as="geometry" />
+          <mxGeometry x="571.32" y="2190" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xC_UJVTxS9RS3cv763vt-16" value="思想约会" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="1690" width="120" height="40" as="geometry" />
+          <mxGeometry x="571.32" y="2230" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xC_UJVTxS9RS3cv763vt-17" value="热力运动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="1730" width="120" height="40" as="geometry" />
+          <mxGeometry x="691.32" y="2070" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xC_UJVTxS9RS3cv763vt-18" value="青春舞台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="1770" width="120" height="40" as="geometry" />
+          <mxGeometry x="691.32" y="2110" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xC_UJVTxS9RS3cv763vt-19" value="星空露营" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="1810" width="120" height="40" as="geometry" />
+          <mxGeometry x="691.32" y="2150" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xC_UJVTxS9RS3cv763vt-20" value="候鸟计划" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="1850" width="120" height="40" as="geometry" />
+          <mxGeometry x="691.32" y="2190" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xC_UJVTxS9RS3cv763vt-21" value="2050青年" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="1890" width="120" height="40" as="geometry" />
+          <mxGeometry x="691.32" y="2230" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xC_UJVTxS9RS3cv763vt-24" value="共享文档" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4" y="1065" width="120" height="60" as="geometry" />
@@ -216,6 +216,81 @@
         </mxCell>
         <mxCell id="xC_UJVTxS9RS3cv763vt-28" value="百城味道" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="220" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xC_UJVTxS9RS3cv763vt-29" value="图片直播" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="260" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xC_UJVTxS9RS3cv763vt-30" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://2050.org.cn/wp-content/uploads/2021/04/Dingtalk_20210420205732.jpg;" vertex="1" parent="1">
+          <mxGeometry x="7.36" y="1510" width="264" height="136.57" as="geometry" />
+        </mxCell>
+        <mxCell id="xC_UJVTxS9RS3cv763vt-31" value="创业者&amp;amp;中学生：一场关于可持续生活的跨代对谈" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="61.36" y="1646.57" width="184.51" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xC_UJVTxS9RS3cv763vt-32" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#000000;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="291.36" y="1510" width="260" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="xC_UJVTxS9RS3cv763vt-33" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://2050.org.cn/wp-content/uploads/2021/04/Dingtalk_20210420205732.jpg;" vertex="1" parent="1">
+          <mxGeometry x="291.36" y="1510" width="260" height="134.5" as="geometry" />
+        </mxCell>
+        <mxCell id="xC_UJVTxS9RS3cv763vt-34" value="走向更加通用的人工智能" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="341.36" y="1646.57" width="184.51" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xC_UJVTxS9RS3cv763vt-35" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#000000;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="561.36" y="1510" width="261.28" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="xC_UJVTxS9RS3cv763vt-36" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://2050.org.cn/wp-content/uploads/2021/04/Dingtalk_20210420205732.jpg;" vertex="1" parent="1">
+          <mxGeometry x="561.36" y="1510" width="259.92" height="134.46" as="geometry" />
+        </mxCell>
+        <mxCell id="xC_UJVTxS9RS3cv763vt-37" value="DCG “虫洞计划” BETA版" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="603.74" y="1644.5" width="184.51" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xC_UJVTxS9RS3cv763vt-39" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#000000;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="6.720000000000001" y="1720" width="266" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="xC_UJVTxS9RS3cv763vt-40" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://2050.org.cn/wp-content/uploads/2021/04/Dingtalk_20210420205732.jpg;" vertex="1" parent="1">
+          <mxGeometry x="8.72" y="1720" width="264" height="136.57" as="geometry" />
+        </mxCell>
+        <mxCell id="xC_UJVTxS9RS3cv763vt-41" value="创业者&amp;amp;中学生：一场关于可持续生活的跨代对谈" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="62.72" y="1856.57" width="184.51" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xC_UJVTxS9RS3cv763vt-42" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#000000;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="292.72" y="1720" width="260" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="xC_UJVTxS9RS3cv763vt-43" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://2050.org.cn/wp-content/uploads/2021/04/Dingtalk_20210420205732.jpg;" vertex="1" parent="1">
+          <mxGeometry x="292.72" y="1720" width="260" height="134.5" as="geometry" />
+        </mxCell>
+        <mxCell id="xC_UJVTxS9RS3cv763vt-44" value="走向更加通用的人工智能" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="342.72" y="1856.57" width="184.51" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xC_UJVTxS9RS3cv763vt-45" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#000000;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="562.72" y="1720" width="261.28" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="xC_UJVTxS9RS3cv763vt-46" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://2050.org.cn/wp-content/uploads/2021/04/Dingtalk_20210420205732.jpg;" vertex="1" parent="1">
+          <mxGeometry x="562.72" y="1720" width="259.92" height="134.46" as="geometry" />
+        </mxCell>
+        <mxCell id="xC_UJVTxS9RS3cv763vt-47" value="DCG “虫洞计划” BETA版" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="605.1" y="1854.5" width="184.51" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xC_UJVTxS9RS3cv763vt-50" value="点击后在同页面&lt;br&gt;加载后面的&lt;br&gt;6个新生论坛" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="261.36" y="2020" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xC_UJVTxS9RS3cv763vt-51" value="点击查看更多" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#000000;strokeColor=#000000;fillColor=default;align=center;" vertex="1" parent="1">
+          <mxGeometry x="255.36" y="1950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xC_UJVTxS9RS3cv763vt-52" value="我想发起&lt;br&gt;新生论坛" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#000000;strokeColor=#000000;fillColor=default;align=center;" vertex="1" parent="1">
+          <mxGeometry x="475.36" y="1950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xC_UJVTxS9RS3cv763vt-53" value="来自新生论坛召集人的自定义信息&lt;br&gt;来自新生论坛召集人的自定义信息&lt;br&gt;来自新生论坛召集人的自定义信息&lt;br&gt;来自新生论坛召集人的自定义信息&lt;br&gt;来自新生论坛召集人的自定义信息&lt;br&gt;来自新生论坛召集人的自定义信息&lt;br&gt;来自新生论坛召集人的自定义信息" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#000000;strokeColor=#000000;fillColor=default;align=center;" vertex="1" parent="1">
+          <mxGeometry x="5.66" y="2070" width="545.7" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="xC_UJVTxS9RS3cv763vt-54" value="2050网站底部导航" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#000000;strokeColor=#000000;fillColor=default;align=center;" vertex="1" parent="1">
+          <mxGeometry x="5.66" y="2290" width="804.64" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xC_UJVTxS9RS3cv763vt-55" value="点击后&lt;br&gt;跳转至&lt;br&gt;发起论坛页面" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="485.36" y="2020" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xC_UJVTxS9RS3cv763vt-56" value="点击后&lt;br&gt;进入&lt;br&gt;论坛详情页面" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="5.660000000000025" y="1670" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
