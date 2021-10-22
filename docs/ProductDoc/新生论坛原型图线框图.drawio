@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-22T04:54:14.079Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="7Jt90d-6IVZnZdx9nEh7" version="15.5.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-10-22T05:13:35.904Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="bhSGT35oBIlydV97azjh" version="15.5.8" type="github" pages="2">
   <diagram id="uC-OHz5i26v9e3jxDsQy" name="PC">
     <mxGraphModel dx="2062" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -274,10 +274,10 @@
         <mxCell id="xC_UJVTxS9RS3cv763vt-50" value="点击后在同页面&lt;br&gt;加载后面的&lt;br&gt;6个新生论坛" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="261.36" y="2020" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xC_UJVTxS9RS3cv763vt-51" value="点击查看更多" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#000000;strokeColor=#000000;fillColor=default;align=center;" vertex="1" parent="1">
+        <mxCell id="xC_UJVTxS9RS3cv763vt-51" value="点击查看更多" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;" vertex="1" parent="1">
           <mxGeometry x="255.36" y="1950" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xC_UJVTxS9RS3cv763vt-52" value="我想发起&lt;br&gt;新生论坛" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#000000;strokeColor=#000000;fillColor=default;align=center;" vertex="1" parent="1">
+        <mxCell id="xC_UJVTxS9RS3cv763vt-52" value="我想发起&lt;br&gt;新生论坛" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;" vertex="1" parent="1">
           <mxGeometry x="475.36" y="1950" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xC_UJVTxS9RS3cv763vt-53" value="来自新生论坛召集人的自定义信息&lt;br&gt;来自新生论坛召集人的自定义信息&lt;br&gt;来自新生论坛召集人的自定义信息&lt;br&gt;来自新生论坛召集人的自定义信息&lt;br&gt;来自新生论坛召集人的自定义信息&lt;br&gt;来自新生论坛召集人的自定义信息&lt;br&gt;来自新生论坛召集人的自定义信息" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#000000;strokeColor=#000000;fillColor=default;align=center;" vertex="1" parent="1">
@@ -297,6 +297,15 @@
         </mxCell>
         <mxCell id="xC_UJVTxS9RS3cv763vt-58" value="&lt;h1&gt;活动系统-新生论坛-详情页&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="7.36000000000001" y="2350" width="442.76" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xC_UJVTxS9RS3cv763vt-59" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://2050.org.cn/wp-content/uploads/2021/04/Dingtalk_20210420205732.jpg;" vertex="1" parent="1">
+          <mxGeometry x="8.72" y="2513" width="792.56" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="xC_UJVTxS9RS3cv763vt-60" value="新生论坛@2050@2022" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="295.87" y="2470" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xC_UJVTxS9RS3cv763vt-61" value="16：9的海报图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="371.36" y="2630" width="208.64" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
