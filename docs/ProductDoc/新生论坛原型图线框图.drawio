@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-22T05:13:35.904Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="bhSGT35oBIlydV97azjh" version="15.5.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-10-22T14:52:11.507Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="bOE0-epRQPj84QpiaYy8" version="15.5.8" type="github" pages="2">
   <diagram id="uC-OHz5i26v9e3jxDsQy" name="PC">
     <mxGraphModel dx="2062" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -299,13 +299,85 @@
           <mxGeometry x="7.36000000000001" y="2350" width="442.76" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xC_UJVTxS9RS3cv763vt-59" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://2050.org.cn/wp-content/uploads/2021/04/Dingtalk_20210420205732.jpg;" vertex="1" parent="1">
-          <mxGeometry x="8.72" y="2513" width="792.56" height="410" as="geometry" />
+          <mxGeometry x="11.700000000000001" y="2493" width="792.56" height="410" as="geometry" />
         </mxCell>
         <mxCell id="xC_UJVTxS9RS3cv763vt-60" value="新生论坛@2050@2022" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="295.87" y="2470" width="230" height="30" as="geometry" />
+          <mxGeometry x="298.85" y="2450" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xC_UJVTxS9RS3cv763vt-61" value="16：9的海报图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="371.36" y="2630" width="208.64" height="40" as="geometry" />
+          <mxGeometry x="374.34000000000003" y="2610" width="208.64" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xC_UJVTxS9RS3cv763vt-62" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#000000;strokeColor=#000000;fillColor=default;align=center;" vertex="1" parent="1">
+          <mxGeometry x="602.98" y="2910" width="199.28" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="xC_UJVTxS9RS3cv763vt-63" value="日期：2022.04.24&lt;br&gt;时间：待定&lt;br&gt;地点：待定" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="608.08" y="2920" width="184.9" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="xC_UJVTxS9RS3cv763vt-64" value="我要参与" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;" vertex="1" parent="1">
+          <mxGeometry x="642.62" y="3030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xC_UJVTxS9RS3cv763vt-65" value="已有N个人想要参与本论坛" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="608.08" y="3105" width="184.9" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="xC_UJVTxS9RS3cv763vt-66" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=15;fontColor=#000000;strokeColor=#000000;fillColor=default;align=left;" vertex="1" parent="1">
+          <mxGeometry x="608.08" y="3140" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xC_UJVTxS9RS3cv763vt-67" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=15;fontColor=#000000;strokeColor=#000000;fillColor=default;align=left;" vertex="1" parent="1">
+          <mxGeometry x="642.62" y="3140" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xC_UJVTxS9RS3cv763vt-68" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=15;fontColor=#000000;strokeColor=#000000;fillColor=default;align=left;" vertex="1" parent="1">
+          <mxGeometry x="679.3" y="3140" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xC_UJVTxS9RS3cv763vt-69" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=15;fontColor=#000000;strokeColor=#000000;fillColor=default;align=left;" vertex="1" parent="1">
+          <mxGeometry x="716.9799999999999" y="3140" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xC_UJVTxS9RS3cv763vt-70" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=15;fontColor=#000000;strokeColor=#000000;fillColor=default;align=left;" vertex="1" parent="1">
+          <mxGeometry x="756.9799999999999" y="3140" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xC_UJVTxS9RS3cv763vt-71" value="..." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="606.72" y="3180" width="184.9" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="xC_UJVTxS9RS3cv763vt-72" value="TA们来自这些城市：" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="607.69" y="3210" width="184.9" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="xC_UJVTxS9RS3cv763vt-73" value="北京 杭州 上海 巴黎 ..." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="608.08" y="3245" width="184.9" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="xC_UJVTxS9RS3cv763vt-74" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#000000;strokeColor=#000000;fillColor=default;align=left;" vertex="1" parent="1">
+          <mxGeometry x="11.7" y="2910" width="581.28" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="xC_UJVTxS9RS3cv763vt-75" value="&lt;div&gt;未来，人、房、车的关系会是怎样？人们如何实现真正的“电力自由”？&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;清洁能源将会以怎样的形态，来影响我们的生活？&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;在川藏线（318国道）的四川起点处，正在建设一个零排放、自循环的环境友好型社区&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;每年有上亿人出游，游客活动对生态环境造成了哪些负担？&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;快时尚时代，“衣服”浪费量惊人，那些被我们丢掉的衣服去了哪里？&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;塑料回收，正在经历哪些实际的行业挑战？&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="32.339999999999996" y="2920" width="540" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="xC_UJVTxS9RS3cv763vt-76" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#000000;strokeColor=#000000;fillColor=default;align=left;" vertex="1" parent="1">
+          <mxGeometry x="32.339999999999996" y="3210" width="550.64" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="xC_UJVTxS9RS3cv763vt-77" value="召集人1&lt;br&gt;头像" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=15;fontColor=#000000;strokeColor=#000000;fillColor=default;align=center;" vertex="1" parent="1">
+          <mxGeometry x="42.98" y="3215" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xC_UJVTxS9RS3cv763vt-78" value="召集人1 姓名 | 来自哪个城市" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="132.98" y="3220" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xC_UJVTxS9RS3cv763vt-79" value="召集人1 一段介绍" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="132.98" y="3250" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xC_UJVTxS9RS3cv763vt-80" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#000000;strokeColor=#000000;fillColor=default;align=left;" vertex="1" parent="1">
+          <mxGeometry x="32.339999999999996" y="3360" width="550.64" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="xC_UJVTxS9RS3cv763vt-81" value="分享人1&lt;br&gt;头像" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=15;fontColor=#000000;strokeColor=#000000;fillColor=default;align=center;" vertex="1" parent="1">
+          <mxGeometry x="42.98" y="3365" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xC_UJVTxS9RS3cv763vt-82" value="分享人1 姓名 | 来自哪个城市" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="132.98" y="3370" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xC_UJVTxS9RS3cv763vt-83" value="分享人1 一段介绍" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="132.98" y="3400" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xC_UJVTxS9RS3cv763vt-84" value="&lt;b&gt;召集人&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="32.13" y="3170" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xC_UJVTxS9RS3cv763vt-85" value="&lt;b&gt;分享人&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="32.13" y="3320" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
