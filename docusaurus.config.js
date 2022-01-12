@@ -12,7 +12,6 @@ const siteConfig = {
   favicon: 'img/favicon.png',
 
   themeConfig: {
-    sidebarCollapsible: false,
     navbar: {
       title,
       logo: {
